@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Gladiator_1.jpg</file>
+        <file>Gladiator_2.jpg</file>
+        <file>Gladiator_3.png</file>
+        <file>Gladiator_start.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,1 @@
+# for_Atlas_48_img_gladiator
